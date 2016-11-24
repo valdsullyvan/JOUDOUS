@@ -1,0 +1,15 @@
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\MetaHour.exe.config
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\MetaHour.exe
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\MetaHour.pdb
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\LeagueSharp.Common.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\LeagueSharp.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\SharpDX.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\LeagueSharp.Data.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\clipper_library.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\spyk\Documents\MetaHour\MetaHour\bin\Debug\clipper_library.pdb
+C:\Users\spyk\Documents\MetaHour\MetaHour\obj\x86\Debug\MetaHour.exe
+C:\Users\spyk\Documents\MetaHour\MetaHour\obj\x86\Debug\MetaHour.pdb

@@ -1,0 +1,15 @@
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\LeagueSharp.Common.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\LeagueSharp.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\SharpDX.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\LeagueSharp.Data.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\clipper_library.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\LeagueSharp.Common.pdb
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\LeagueSharp.Data.pdb
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\bin\Debug\clipper_library.pdb
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\spyk\Documents\MetaSmite\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
